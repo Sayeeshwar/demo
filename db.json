@@ -1,17 +1,10 @@
 {
-  "teams": [
-    "team1":[
+   "team1":[
     {"id":1,"title":"meet ","date":"12-5-17"},
     {"id":2,"title":"meet for","date":"12-5-17"},
     {"id":3,"title":"meet for profits","date":"12-5-17"}
     ],
-    "team2":[
-    {"id":4,"title":"profits","date":"12-5-17"},
-    {"id":5,"title":"for profits","date":"12-5-17"},
-    {"id":6,"title":"meet for losses","date":"12-5-17"}
-    ]
-  ],
-  "profile": {
+   "profile": {
     "name": "typicode"
   }
 }
