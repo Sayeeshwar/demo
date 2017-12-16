@@ -1,12 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "teams": [
+    "team1":[
+    {"id":1,"title":"meet ","date":"12-5-17"},
+    {"id":2,"title":"meet for","date":"12-5-17"},
+    {"id":3,"title":"meet for profits","date":"12-5-17"}
+    ],
+    "team2":[
+    {"id":4,"title":"profits","date":"12-5-17"},
+    {"id":5,"title":"for profits","date":"12-5-17"},
+    {"id":6,"title":"meet for losses","date":"12-5-17"}
+    ]
   ],
   "profile": {
     "name": "typicode"
